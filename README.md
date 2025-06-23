@@ -1,1 +1,3 @@
-# rupaldixit.github.io
+Data Analyst / BI Developer 
+
+## Projects 
